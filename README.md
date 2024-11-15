@@ -1,2 +1,0 @@
-# CashCard
-Springboot tutorial app
